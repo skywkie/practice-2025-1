@@ -1,5 +1,5 @@
 # Отчет по проекту "Build Your Own React"
-Источник: pomb.us/build-your-own-react
+Источник: [Build-your-own-react](pomb.us/build-your-own-react)
 Автор: Rodrigo Pombo
 Дата публикации: 13 ноября 2019 г.
 Цель проекта: Пошаговое создание собственной библиотеки, копирующей архитектуру React 16.8, с нуля, с поддержкой хуков и отказом от классов.
