@@ -1,4 +1,3 @@
-import { Logo } from "@/components/icons/logo";
 import { TypographyH1, TypographyH2, TypographyP } from "@/components/ui/typography";
 
 export default function Home() {
